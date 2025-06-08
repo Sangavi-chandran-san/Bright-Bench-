@@ -1,2 +1,2 @@
 # Bright-Bench-
-A web app for easy learning 
+A web application for easy learning 
